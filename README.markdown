@@ -1,3 +1,5 @@
 # Git Essentials
-You are reading the README for this fake project.
+
+This is the README for the fake project we are using to teach Git. You are watching the Tuts+ Premium course Git Essentials.
+
 All Rights reserved Jan 2015.
